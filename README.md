@@ -66,7 +66,7 @@ frontend/
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ExploreInsight/todo-app-webapp.git
    cd Todo-list/frontend
    ```
 2. Install dependencies:
